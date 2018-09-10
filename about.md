@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'am the padawan learner of phantom forces (Roblox).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'am also a Fortnite veterean from season 2 and have stopped playing When I got solo win with 0 kills
+and the game got boring.
 
-### Contact me
+### Don't Contact me
 
 [email@domain.com](mailto:email@domain.com)
