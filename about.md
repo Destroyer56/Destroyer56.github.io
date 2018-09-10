@@ -11,6 +11,6 @@ I'am the padawan learner of phantom forces (Roblox).
 I'am also a Fortnite veterean from season 2 and have stopped playing When I got solo win with 0 kills
 and the game got boring.
 
-### Don't Contact me
+### Contact me on Roblox
 
-[email@domain.com](mailto:email@domain.com)
+Destroyer_2plays
