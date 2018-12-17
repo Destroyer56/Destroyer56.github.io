@@ -66,11 +66,12 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <td>What did i achieve </td>
     <td></td>
   </tr>
   <tr>
-    <td>Being quicker.</td>
+    <td>I got to the same stage as i did the year before
+And I got slightly further than before.</td>
     <td></td>
   </tr>
 </table>
