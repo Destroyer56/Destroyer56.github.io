@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-I'am the padawan learner of phantom forces (Roblox).
+I am the god of  phantom forces (Roblox).
 
 ### More Information
 
